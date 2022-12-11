@@ -1,0 +1,147 @@
+.navbar {
+    margin-top: 30px;
+}
+
+.navbar-brand {
+    margin-right: 715px;
+    margin-left: -15px;
+}
+ 
+.navlink {
+    color:#898989;
+    text-decoration: none;
+    text-align: end;
+    align-content: flex-end;
+    align-items: flex-end;
+    margin-left: 70px;
+    margin-right: -15px;
+}
+
+.nav-item {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: ;
+    background-color: transparent;
+    display: inline-block;
+}
+
+.navlink:hover {
+    color: #e06822;
+    text-decoration: none;
+}
+
+#primeira {
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 30px;
+}
+
+#blackbg {
+    background-color: #000000;
+    padding: 15px;
+}
+
+.texto1 {
+    color: #e6bb71;
+    padding-top: 20px;
+    margin-left: 15px;
+    font-size: 30px;
+
+}
+
+.texto2 {
+    color:white;
+    padding-top: 15px;
+    margin-left: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.texto2:hover {
+    color:#e6bb71;
+}
+
+.texto3 {
+    color:#898989;
+    margin-left: 15px;
+    font-size:15px;
+    line-height: 18px;
+    padding-bottom: 15px;
+    text-align: justify;
+    margin-right: 15px;
+}
+
+.line {
+    size: 1px;
+    color: azure;
+}
+
+.texto4 {
+    font-size: 58px;
+    font-weight: bolder;
+    line-height: 58px;
+    margin-top: 30px;
+    margin-left: -15px;
+}
+
+.texto5 {
+    color: #898989;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: start;
+    margin-top:  30px;
+    margin-right: 50px;
+    text-align:start;
+}
+
+.botao {
+    background-color: #000000;
+    border: none;
+    color: white;
+    font-size: 12px;
+    letter-spacing: 3px;
+    width: 150px;
+    height: 40px;
+    margin-top: 30px;
+    cursor:pointer;
+}
+
+.botao:hover {
+    font-weight: bolder;
+}
+
+#segunda {
+    padding-top: 50px;
+}
+.texto6 {
+    font-size: 20px;
+    color: #c0c0c0;
+    font-weight: bolder;
+}
+
+.texto7 {
+    font-weight: bolder;
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+.texto7:hover {
+    color: #e06822;
+    cursor: pointer;
+}
+
+.texto8 {
+    color: #898989;
+    font-size: 18px;
+    line-height: 25px;
+    margin-right: 10px;
+}
+
+.img {
+    margin-left: -15px;
+    width: 110px;
+}
+
+.attribution {
+    padding-top: 40px;
+    text-align: center;
+}
