@@ -1,10 +1,9 @@
-.navbar {
-    margin-top: 30px;
-}
+
 
 .navbar-brand {
-    margin-right: 715px;
-    margin-left: -15px;
+    padding-left: 150px;
+    padding-top: 30px;
+    padding-right: 490px;
 }
  
 .navlink {
@@ -19,9 +18,10 @@
 
 .nav-item {
     font-family: Arial, Helvetica, sans-serif;
-    padding-right: ;
+    align-items: flex-end;
     background-color: transparent;
     display: inline-block;
+    padding-top: 30px;
 }
 
 .navlink:hover {
@@ -33,6 +33,7 @@
     padding-left: 80px;
     padding-right: 80px;
     padding-top: 30px;
+    background-color: white;
 }
 
 #blackbg {
@@ -45,6 +46,7 @@
     padding-top: 20px;
     margin-left: 15px;
     font-size: 30px;
+    padding-right: 15px;
 
 }
 
@@ -54,6 +56,7 @@
     margin-left: 15px;
     font-size: 20px;
     cursor: pointer;
+    padding-right: 15px;
 }
 
 .texto2:hover {
@@ -68,6 +71,7 @@
     padding-bottom: 15px;
     text-align: justify;
     margin-right: 15px;
+    padding-right: 15px;
 }
 
 .line {
@@ -103,10 +107,12 @@
     height: 40px;
     margin-top: 30px;
     cursor:pointer;
+    margin-bottom: 20px;
 }
 
 .botao:hover {
     font-weight: bolder;
+    background-color: rgb(255, 81, 0);
 }
 
 #segunda {
@@ -131,14 +137,14 @@
 
 .texto8 {
     color: #898989;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 25px;
     margin-right: 10px;
 }
 
 .img {
-    margin-left: -15px;
-    width: 110px;
+    margin-left: ;
+    width: 100%;
 }
 
 .attribution {
